@@ -2,28 +2,23 @@
 
 ## *JavaScript*
 Aulas / Projetos de **JavaScript**
-***
 
 ## *React Native*
 Aulas / Projetos de **React Native**
-- Aulas
-- Projetos
-***
+- [Aulas](https://stbitola.github.io/)
+- [Projetos](https://stbitola.github.io/)
 
 ## *Windows Forms*
 Aulas / Projetos de **Windows Forms**
-- Aulas
-- Projetos
-***
+- [Aulas](https://stbitola.github.io/)
+- [Projetos](https://stbitola.github.io/)
 
 ## *HTML5 & CSS3*
 Aulas / Projetos de **HTML5 & CSS3**
-- Aulas
-- Projetos
-***
+- [Aulas](https://stbitola.github.io/)
+- [Projetos](https://stbitola.github.io/)
 
 ## *Android*
 Aulas / Projetos de **Android**
-- Aulas
-- Projetos
-***
+- [Aulas](https://stbitola.github.io/)
+- [Projetos](https://stbitola.github.io/)
