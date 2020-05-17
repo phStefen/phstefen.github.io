@@ -1,4 +1,4 @@
-# Repositório Público do Aluno *Raphael Stefen Barreto*
+# Repositório Público do *Raphael Stefen Barreto*
 
 
 ## *JavaScript*
@@ -24,7 +24,7 @@ Aulas / Projetos de **React Native**
 
 ## *Windows Forms*
 
-<img align="right" src="img/c#.png" width="130">
+<img align="right" src="img/csharp.png" width="130">
 
 Aulas / Projetos de **Windows Forms**
 
