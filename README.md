@@ -32,7 +32,7 @@ Aulas / Projetos de **Windows Forms**
 <img align="right" src="img/htmlcss.png" width="130">
 
 Aulas / Projetos de **HTML5 & CSS3**
-- [Aulas](https://phstefen.github.io/)
+- [Aulas](https://github.com/phStefen/aulas-html)
 - [Projetos](https://phstefen.github.io/)
 
 
