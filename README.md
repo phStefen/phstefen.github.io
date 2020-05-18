@@ -1,5 +1,5 @@
 # Repositório Público do *Raphael Stefen Barreto*
-## [GitHub](https://github.com/phStefen)
+## [Meu GitHub](https://github.com/phStefen)
 
 ## *JavaScript*
 
