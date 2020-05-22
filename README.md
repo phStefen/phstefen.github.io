@@ -1,5 +1,11 @@
 # Repositório Público do [*Raphael Stefen Barreto*](https://github.com/phStefen)
 
+### Cursos Feitos:
+[x] T.I - Etec
+[ ] ADS - Unicesumar
+[ ] Web - Udemy
+[ ] React Native - Udemy
+
 ## *JavaScript*
 
 <img align="right" src="img/js.png" width="130">
