@@ -30,7 +30,7 @@ Aulas / Projetos de **React Native**
 
 Aulas / Projetos de **Windows Forms**
 - [Aulas](https://phstefen.github.io/)
-- [Projetos](https://phstefen.github.io/projetos-csharp)
+- [Projetos](https://github.com/phStefen/projetos-csharp)
 
 
 ## *HTML5 & CSS3*
@@ -39,7 +39,7 @@ Aulas / Projetos de **Windows Forms**
 
 Aulas / Projetos de **HTML5 & CSS3**
 - [Aulas](https://github.com/phStefen/aulas-html-css)
-- [Projetos](https://phstefen.github.io/projetos-html-css)
+- [Projetos](https://github.com/phStefen/projetos-html-css)
 
 
 ## *Android*
