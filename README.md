@@ -10,7 +10,7 @@
 
 ## *HTML5 & CSS3*
 
-<img align="right" src="img/htmlcss.png" width="130">
+<img align="right" src="img/htmlcss.png" height="130">
 
 Aulas / Projetos de **HTML5 & CSS3**
 - [Aulas](https://github.com/phStefen/aulas-html-css)
@@ -19,7 +19,7 @@ Aulas / Projetos de **HTML5 & CSS3**
 
 ## *Java*
 
-<img align="right" src="img/java.png" width="130">
+<img align="right" src="img/java.png" height="130">
 
 Aulas / Projetos de **Java**
 - [Aulas](https://github.com/phStefen/aulas-java)
@@ -28,7 +28,7 @@ Aulas / Projetos de **Java**
 
 ## *JavaScript*
 
-<img align="right" src="img/js.png" width="130">
+<img align="right" src="img/js.png" height="130">
 
 Aulas / Projetos de **JavaScript**
 - [Aulas](https://phstefen.github.io/)
@@ -37,7 +37,7 @@ Aulas / Projetos de **JavaScript**
 
 ## *React Native*
 
-<img align="right" src="img/react.png" width="130">
+<img align="right" src="img/react.png" height="130">
 
 Aulas / Projetos de **React Native**
 - [Aulas](https://phstefen.github.io/)
@@ -46,7 +46,7 @@ Aulas / Projetos de **React Native**
 
 ## *Windows Forms*
 
-<img align="right" src="img/csharp.png" width="130">
+<img align="right" src="img/csharp.png" height="130">
 
 Aulas / Projetos de **Windows Forms**
 - [Aulas](https://phstefen.github.io/)
@@ -55,7 +55,7 @@ Aulas / Projetos de **Windows Forms**
 
 ## *Android*
 
-<img align="right" src="img/android.png" width="130">
+<img align="right" src="img/android.png" height="130">
 
 Aulas / Projetos de **Android**
 - [Aulas](https://phstefen.github.io/)
