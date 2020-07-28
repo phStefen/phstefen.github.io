@@ -1,11 +1,11 @@
 # Repositório Público do [*Raphael Stefen Barreto*](https://github.com/phStefen)
 
 ### Cursos Feitos:
-- [x] T.I - Etec Franco da Rocha
-- [ ] ADS - Unicesumar Londrina
-- [ ] Dispositivos Móveis - IMDFIC
-- [ ] Web - Udemy
-- [ ] React Native - Udemy
+[x] T.I - Etec Franco da Rocha
+[ ] ADS - Unicesumar Londrina
+[ ] Dispositivos Móveis - IMDFIC
+[ ] Web - Udemy
+[ ] React Native - Udemy
 
 
 ## *HTML5 & CSS3*
