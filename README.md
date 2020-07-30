@@ -25,16 +25,17 @@ Aulas / Projetos de **Java**
 - [Aulas](https://github.com/phStefen/aulas-java)
 - [Projetos](https://phstefen.github.io/projetos-java)
 
-
-## *JavaScript*
+<!--
+ ## *JavaScript*
 
 <img align="right" src="img/js.png" width="130">
 
 Aulas / Projetos de **JavaScript**
 - [Aulas](https://phstefen.github.io/)
 - [Projetos](https://phstefen.github.io/)
+-->
 
-
+<!--
 ## *React Native*
 
 <img align="right" src="img/react.png" width="130">
@@ -42,9 +43,17 @@ Aulas / Projetos de **JavaScript**
 Aulas / Projetos de **React Native**
 - [Aulas](https://phstefen.github.io/)
 - [Projetos](https://phstefen.github.io/)
+-->
 
+## *C++*
 
-## *Windows Forms*
+<img align="right" src="img/cpp.png" width="130">
+
+Aulas / Projetos de **C++**
+- [Aulas](https://github.com/phStefen/aulas-cpp)
+- [Projetos](https://phstefen.github.io/projetos-cpp)
+
+## *C#*
 
 <img align="right" src="img/csharp.png" width="130">
 
@@ -52,7 +61,7 @@ Aulas / Projetos de **Windows Forms**
 - [Aulas](https://phstefen.github.io/)
 - [Projetos](https://github.com/phStefen/projetos-csharp)
 
-
+<!--
 ## *Android*
 
 <img align="right" src="img/android.png" width="130">
@@ -60,3 +69,4 @@ Aulas / Projetos de **Windows Forms**
 Aulas / Projetos de **Android**
 - [Aulas](https://phstefen.github.io/)
 - [Projetos](https://phstefen.github.io/)
+-->
