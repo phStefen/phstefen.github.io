@@ -45,13 +45,13 @@ Aulas / Projetos de **React Native**
 - [Projetos](https://phstefen.github.io/)
 -->
 
-## *C++*
+## *C*
 
-<img align="right" src="img/cpp.png" width="130">
+<img align="right" src="img/c.png" width="130">
 
-Aulas / Projetos de **C++**
-- [Aulas](https://github.com/phStefen/aulas-cpp)
-- [Projetos](https://phstefen.github.io/projetos-cpp)
+Aulas / Projetos de **C**
+- [Aulas](https://github.com/phStefen/aulas-c)
+- [Projetos](https://phstefen.github.io/projetos-c)
 
 ## *C#*
 
