@@ -1,5 +1,7 @@
 # Repositório Público do [*Raphael Stefen Barreto*](https://github.com/phStefen)
 
+<link rel="icon" type="image/png" href="img/android.png"/>
+
 ### Cursos Feitos:
 -  [x]  T.I - Etec Franco da Rocha
 -  [ ]  ADS - Unicesumar Londrina
